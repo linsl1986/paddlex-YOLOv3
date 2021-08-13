@@ -31,7 +31,7 @@
 
 
 #下载工具包，不用每次运行。使用github替代gitee也行，但很慢。
-get_ipython().system('git clone https://gitee.com/PaddlePaddle/PaddleDetection.git')
+git clone https://gitee.com/PaddlePaddle/PaddleDetection.git
 
 
 # In[ ]:
